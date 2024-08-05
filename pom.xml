@@ -25,7 +25,7 @@
         <sharding-sphere.version>3.1.0</sharding-sphere.version>
         <security-oauth2.version>2.3.5.RELEASE</security-oauth2.version>
         <security-jwt.version>1.0.9.RELEASE</security-jwt.version>
-        <redisson.version>3.9.1</redisson.version>
+        <redisson.version>3.22.0</redisson.version>
         <kaptcha.version>0.0.9</kaptcha.version>
         <hutool.version>4.3.1</hutool.version>
         <mybatis-plus-boot-starter.version>3.0.6</mybatis-plus-boot-starter.version>
